@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BSP: launcher-interface-1.4.4" external-system-id="BSP">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.20/org.scala-sbt/sbt/1.11.3/launcher-interface-1.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

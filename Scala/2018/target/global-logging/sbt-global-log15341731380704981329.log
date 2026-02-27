@@ -1,0 +1,12 @@
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(sbtMapExec e6925d71-58b9-4fd5-a1d0-c708a610fc0c __7933c914-a38c-4ffa-af82-a00540bbeb11, None, None)
+[debug] > Exec(exit, Some(__7933c914-a38c-4ffa-af82-a00540bbeb11), Some(CommandSource(network-1)))
+[debug] unmatched Processing event for requestId Some(__7933c914-a38c-4ffa-af82-a00540bbeb11): None
+[debug] > Exec(__disconnectNetworkChannel network-1, None, Some(CommandSource(network-1)))
+[debug] unmatched Processing event for requestId None: None
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])
+[debug] > Exec(sbtCompleteExec e6925d71-58b9-4fd5-a1d0-c708a610fc0c, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(sbtReportResult e6925d71-58b9-4fd5-a1d0-c708a610fc0c, Some(e6925d71-58b9-4fd5-a1d0-c708a610fc0c), Some(CommandSource(network-1)))
+[debug] > Exec(shell, None, None)
