@@ -58,6 +58,3 @@ Lancez la compilation et l'exécution via sbt :
 ```bash
 sbt run
 ```
-
-## 📜 Licence & Avertissement
-Les données d'entrée (`real.txt`) et les textes des énigmes (`consignes.txt`) sont la propriété intellectuelle exclusive d'Advent of Code et de son créateur Eric Wastl. Ce dépôt a un but purement éducatif et personnel.
